@@ -1,4 +1,4 @@
-IT Company Website
+IT Company Website "DevWave"
 
 Welcome to the official repository for the website of [IT Company Name]! 🚀
 
