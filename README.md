@@ -20,7 +20,7 @@ Features
 
 Getting Started
 
-1. Clone: `git clone https://github.com/your-username/it-company-website.git`
+1. Clone: `git clone https://it-agency-template.vercel.app/`
 2. Install: `npm install`
 3. Start: `npm start`
 
